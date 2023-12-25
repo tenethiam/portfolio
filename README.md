@@ -1,3 +1,3 @@
-# get-ready-simple-countdown-html-css-js
+# my portfolio
 
-Démo : https://archidote.github.io/get-ready-simple-countdown-html-css-js/
+web site url: https://github.com/tenethiam/portfolio/
